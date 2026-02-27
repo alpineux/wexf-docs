@@ -9,9 +9,11 @@ section: cms
 
 The Blog Posts collection is your website's article database where all your blog content is stored and organized. Think of it like a digital filing cabinet that holds all your blog articles.
 
-## Video Tutorial with Bunny
+## Quick Fixes for 3D Design Grid & Hero Slider Height Adjustment Tutorial
 
-<iframe src="https://player.mediadelivery.net/embed/604041/c0106780-d397-4c69-963e-1466659d1a48" width="100%" height="400" frameborder="0" allowfullscreen="true" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture" loading="lazy" style="border: none; aspect-ratio: 16 / 9; width: 100%;"></iframe>
+<iframe src="https://player.mediadelivery.net/embed/604041/ac52fe30-87a8-4c20-92e9-9264a0b3753c" width="100%" height="400" frameborder="0" allowfullscreen="true" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture" loading="lazy" style="border: none; aspect-ratio: 16 / 9; width: 100%;"></iframe>
+
+> In this video tutorial, the speaker demonstrates how to make adjustments to a 3D design page and a hero slider component. They first address a grid layout issue by adjusting the number of columns to fill the space correctly. Next, they show how to resize the hero slider's height on different devices to ensure the image displays properly without cropping. By changing the height percentage, they achieve a balanced look on desktop, tablet, and mobile breakpoints. These simple fixes improve the visual presentation of the website, providing a seamless user experience across various screen sizes.
 
 ## Screenshot
 

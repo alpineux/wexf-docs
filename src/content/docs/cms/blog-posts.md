@@ -1,15 +1,15 @@
 ---
 title: 'Blog Posts'
-description: 'Blog Posts'
+description: 'What This Is'
 order: 1
 section: cms
 ---
 
-# Blog Posts
-
 ## What This Is
 
 The Blog Posts collection is your website's article database where all your blog content is stored and organized. Think of it like a digital filing cabinet that holds all your blog articles.
+
+![Screenshot 2](https://i.ibb.co/rRHPD7vW/Screenshot-2025-11-13-at-9-59-23-AM.png)
 
 ## Javascript
 
@@ -69,9 +69,9 @@ This is how to use the on page css
 
 ## How to add a new Blog Post
 
-1.  Click on the **Pages Tab** ![](https://projectspace.b-cdn.net/webflow-icons/pages-icon.svg) in the left hand [@webflow\_toolbar](https://projectspace.b-cdn.net/webflow-icons/webflow_toolbar.png)
+1.  Click on the **Pages Tab** in the left hand [@webflow\_toolbar](https://projectspace.b-cdn.net/webflow-icons/webflow_toolbar.png)
     
-2.  Click on the **Plus Button** ![](https://projectspace.b-cdn.net/webflow-icons/pages-icon.svg) in the top right of the @webflow\_pages\_tab
+2.  Click on the **Plus Button** in the top right of the @webflow\_pages\_tab
     
 
 ## bWhat It Does

@@ -11,6 +11,8 @@ section: cms
 
 This is your Projects collection, which works like a digital filing cabinet for storing information about all your projects. Think of it as a database that holds details about each project you want to showcase on your website.
 
+<details open="true" title="Accordion title"><summary><b>Accordion title</b></summary><div class="accordion-content"><p data-id="2dae10a2-e832-4575-b341-2b216cc5d442">This is great</p></div></details>
+
 ## Form Code
 
 ```javascript

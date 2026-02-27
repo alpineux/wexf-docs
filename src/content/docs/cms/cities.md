@@ -11,6 +11,8 @@ section: cms
 
 The Cities collection is a content database that stores information about different cities. Think of it like a digital filing cabinet where each folder contains details about one city.
 
+> Dorothy followed her through many of the beautiful rooms in her castle. > > The Witch bade her clean the !\[Webflow Pages Icon\]([https://projectspace.b-cdn.net/webflow-icons/svgviewer-output.svg](https://projectspace.b-cdn.net/webflow-icons/svgviewer-output.svg)) pots and kettles and sweep the floor and keep the fire fed with wood.
+
 ## What It Does
 
 This collection organizes city-related content on your website. Each city gets its own page with a web address that follows the pattern `/cities/city-name`. With 10 cities currently stored, this collection helps you manage and display information about multiple locations in one organized place.

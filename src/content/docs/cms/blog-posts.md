@@ -11,15 +11,70 @@ section: cms
 
 The Blog Posts collection is your website's article database where all your blog content is stored and organized. Think of it like a digital filing cabinet that holds all your blog articles.
 
-/sc
+## Javascript
+
+This is how to use the on-page Javascript code
 
 ```javascript
-<script>
-
-</script>
+function hello() {
+  const main = document.getElementById("main");
+  console.log(main);
+}
 ```
 
-## What It Does
+## CSS
+
+This is how to use the on page css
+
+```css
+.swiper-button-next,
+.swiper-button-prev {
+  color: white;
+}
+
+.autoplay-progress {
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+  z-index: 10;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: white;
+}
+
+.autoplay-progress svg {
+  --progress: 0;
+  position: absolute;
+  left: 0;
+  top: 0px;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  stroke-width: 4px;
+  stroke: white;
+  fill: none;
+  stroke-dashoffset: calc(125.6px * (1 - var(--progress)));
+  stroke-dasharray: 125.6;
+  transform: rotate(-90deg);
+}
+
+.swiper-pagination-bullet-active {
+  background: white;
+}
+```
+
+## How to add a new Blog Post
+
+1.  Click on the **Pages Tab** ![](https://projectspace.b-cdn.net/webflow-icons/pages-icon.svg) in the left hand @webflow\_toolbar
+    
+2.  Click on the **Plus Button** ![](https://projectspace.b-cdn.net/webflow-icons/pages-icon.svg) in the top right of the @webflow\_pages\_tab
+    
+
+## bWhat It Does
 
 This collection manages all the individual blog posts on your website. Each post becomes its own webpage that visitors can read and share. The collection automatically organizes your posts and makes them available at web addresses like `yoursite.com/post/article-name`.
 

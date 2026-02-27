@@ -15,7 +15,11 @@ The Cities collection is a content database that stores information about differ
 
 ![](https://projectspace.b-cdn.net/webflow-icons/svgviewer-output.svg)
 
-this is very cool ![](https://projectspace.b-cdn.net/webflow-icons/Frame%20223.svg) so cool wowserssssss
+this is very cool
+
+![](https://projectspace.b-cdn.net/webflow-icons/Frame%20223.svg)
+
+so cool wowserssssss
 
 ## What It Does
 

@@ -11,6 +11,29 @@ section: cms
 
 This is your Projects collection, which works like a digital filing cabinet for storing information about all your projects. Think of it as a database that holds details about each project you want to showcase on your website.
 
+## Form Code
+
+```javascript
+const logger = (() => {
+  const log = (msg, data = null, color = "#42b983") => {
+    if (!DEBUG) return;
+    console.log(`%c[VueApp] ${msg}`, `color:${color};font-weight:bold;`);
+    if (data !== null) console.log(data);
+  };
+
+  return {
+    info: (msg, data) => log(msg, data, "#42b983"),
+    warn: (msg, data) => log(msg, data, "#ff9800"),
+    error: (msg, data) => log(msg, data, "#ff5555"),
+  };
+})();
+
+const isValidNumber = (value) => {
+  const num = Number(value);
+  return Number.isFinite(num) && num > THRESHOLDS.minGuests;
+};
+```
+
 ## What It Does
 
 This collection stores and organizes your project information so you can display them consistently across your website. When visitors go to pages that show your projects, the content comes from this collection. Currently, you have 26 projects stored here.

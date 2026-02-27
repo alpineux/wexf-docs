@@ -11,6 +11,14 @@ section: cms
 
 The Blog Posts collection is your website's article database where all your blog content is stored and organized. Think of it like a digital filing cabinet that holds all your blog articles.
 
+/sc
+
+```javascript
+<script>
+
+</script>
+```
+
 ## What It Does
 
 This collection manages all the individual blog posts on your website. Each post becomes its own webpage that visitors can read and share. The collection automatically organizes your posts and makes them available at web addresses like `yoursite.com/post/article-name`.
@@ -30,4 +38,8 @@ This collection manages all the individual blog posts on your website. Each post
 
 > **CREATE BLOG POST**
 > 
-> Click on the CMS button ![](https://projectspace.b-cdn.net/webflow-icons/Frame%20223.svg) in the top left of the website editor.
+> Click on the CMS button
+> 
+> ![](https://projectspace.b-cdn.net/webflow-icons/Frame%20223.svg)
+> 
+> in the top left of the website editor.

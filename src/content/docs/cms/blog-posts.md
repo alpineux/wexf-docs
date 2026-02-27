@@ -9,6 +9,9 @@ section: cms
 
 The Blog Posts collection is your website's article database where all your blog content is stored and organized. Think of it like a digital filing cabinet that holds all your blog articles.
 
+![Video](https://anti-trust.rocks/albums/TheArbiterOfTruth.mp4)
+
+
 ![Screenshot 2](https://i.ibb.co/rRHPD7vW/Screenshot-2025-11-13-at-9-59-23-AM.png)
 
 ## Javascript

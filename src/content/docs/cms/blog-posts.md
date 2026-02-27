@@ -9,8 +9,8 @@ section: cms
 
 The Blog Posts collection is your website's article database where all your blog content is stored and organized. Think of it like a digital filing cabinet that holds all your blog articles.
 
-<video controls width="100%" poster="/videos/preview.jpg">
-  <source src="[/videos/demo.mp4](https://anti-trust.rocks/albums/TheArbiterOfTruth.mp4)" type="video/mp4" />
+<video controls width="100%" poster="https://projectspace.b-cdn.net/webflow-icons/webflow_toolbar.png">
+  <source src="https://projectspace.b-cdn.net/static/projectspace-2026-02-22T03-19-09.webm" type="video/webm" />
   Your browser does not support the video tag.
 </video>
 

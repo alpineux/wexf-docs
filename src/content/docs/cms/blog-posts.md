@@ -69,7 +69,7 @@ This is how to use the on page css
 
 ## How to add a new Blog Post
 
-1.  Click on the **Pages Tab** ![](https://projectspace.b-cdn.net/webflow-icons/pages-icon.svg) in the left hand @webflow\_toolbar
+1.  Click on the **Pages Tab** ![](https://projectspace.b-cdn.net/webflow-icons/pages-icon.svg) in the left hand [@webflow\_toolbar](https://projectspace.b-cdn.net/webflow-icons/webflow_toolbar.png)
     
 2.  Click on the **Plus Button** ![](https://projectspace.b-cdn.net/webflow-icons/pages-icon.svg) in the top right of the @webflow\_pages\_tab
     

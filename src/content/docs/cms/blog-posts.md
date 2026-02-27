@@ -15,6 +15,8 @@ The Blog Posts collection is your website's article database where all your blog
 
 > In this video tutorial, the speaker demonstrates how to make adjustments to a 3D design page and a hero slider component. They first address a grid layout issue by adjusting the number of columns to fill the space correctly. Next, they show how to resize the hero slider's height on different devices to ensure the image displays properly without cropping. By changing the height percentage, they achieve a balanced look on desktop, tablet, and mobile breakpoints. These simple fixes improve the visual presentation of the website, providing a seamless user experience across various screen sizes.
 
+<details> <summary><i>Wow, so fancy</i></summary> <b>WOW, SO BOLD</b> </details>
+
 ## Screenshot
 
 ![Screenshot 2](https://i.ibb.co/rRHPD7vW/Screenshot-2025-11-13-at-9-59-23-AM.png)
